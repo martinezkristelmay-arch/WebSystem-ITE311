@@ -25,7 +25,7 @@ class UserSeeder extends Seeder
                 'name' => 'Kristel Mae Martinez',
                 'email' => 'kristelmartinez@lms.com',
                 'role' => 'student',
-                'password' => password_hash('student123', PASSWORD_DEFAULT),
+                'password' => <passwor></passwor>d_hash('student123', PASSWORD_DEFAULT),
             ],
         ];
 
